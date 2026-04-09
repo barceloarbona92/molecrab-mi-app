@@ -1,0 +1,20 @@
+{
+  "name": "Dopamine Reset · Mini Tracker",
+  "short_name": "Dopamine Reset",
+  "description": "Tracker diario antidopamina. 100% local.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0b12",
+  "theme_color": "#0b0b12",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
